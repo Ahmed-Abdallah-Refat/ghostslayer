@@ -1,5 +1,5 @@
-<img src="https://cdn.slaybot.xyz/assets/background/readme.png"><br>
+## Current Projects
 
-<b>Proud Developer of <a href="https://slaybot.xyz">SlayBot</a></b>
+- [SlayBot Discord Bot](https://slaybot.xyz)
 
-<img src="https://invidget.switchblade.xyz/7a5kJC8">
+![Github Stats](https://github-readme-stats-six-jet.vercel.app/api?username=ghostslayer&count_private=true&show_icons=true&theme=dracula)
